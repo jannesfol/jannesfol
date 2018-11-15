@@ -15,4 +15,9 @@ function draw() {
   var b = noise(t + 15) * 255;
   fill(r,g,b);
   ellipse(x,y,y / 2);
+ function mousePressed(){
+	background(0);
+	 t = 0;
+	 t1 = 0;
+}
 }
