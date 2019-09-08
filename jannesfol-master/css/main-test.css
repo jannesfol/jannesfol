@@ -1,0 +1,17 @@
+body {
+  font-size: 28px;
+  background: black;
+}
+
+
+
+#header{
+	color: aqua;
+	text-align: center;
+}
+navigation{
+	background: white;
+}
+container{
+	float: left;
+}
