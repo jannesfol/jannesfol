@@ -1,0 +1,57 @@
+body {
+  font-size: 28px;
+  font-family:  consolas;
+  display: inline;
+  color: white;
+  background: black;
+  text-align: center;
+}
+h1{
+	text-align: center;
+}
+h1:hover{
+	text-shadow: 0 0 10px aqua, 0 0 10px aqua, 0 0 10px aqua, 0 0 10px aqua;
+}
+
+h4{
+	text-align: center;
+}
+p{
+	word-wrap: keep-all;
+}
+a{
+	padding: 5px;
+	float: right;
+	border-radius: 5px;
+	
+	color: black;
+	background: aqua;
+
+	text-decoration: none;
+	text-transform: uppercase;
+}
+a:hover{
+	box-shadow: 0 0 10px aqua, 0 0 10px aqua, 0 0 10px aqua, 0 0 10px aqua;
+}
+
+
+.box1{
+	overflow: hidden;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 25%;
+	margin-right: 25%;
+	border-style: solid;
+	padding: 10px;
+	border-color: aqua;
+	width: 50%;
+	text-align: left;
+}
+.box2{
+	height: 50px;
+	padding: 15px;
+}
+.fooder{
+	padding: 10px;
+	text-align: center;
+}
